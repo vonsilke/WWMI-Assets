@@ -1,4 +1,4 @@
-stride: 450
+stride: 462
 topology: trianglelist
 format: DXGI_FORMAT_R16_UINT
 element[0]:
@@ -615,5 +615,21 @@ element[76]:
   Format: R16G16B16_FLOAT
   InputSlot: 0
   AlignedByteOffset: 444
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[77]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 86
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 450
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[78]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 87
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 456
   InputSlotClass: per-vertex
   InstanceDataStepRate: 0
