@@ -1,5 +1,5 @@
 {
-    "vb0_hash": "6a6cd394",
+    "vb0_hash": "2416ec07",
     "cb4_hash": "f02baf77",
     "vertex_count": 66014,
     "index_count": 255876,
@@ -438,8 +438,8 @@
     "shapekeys": {
         "offsets_hash": "2f1d7ffd",
         "scale_hash": "2109de80",
-        "vertex_count": 31542,
-        "dispatch_y": 986,
+        "vertex_count": 33436,
+        "dispatch_y": 1045,
         "checksum": 2275
     },
     "export_format": {

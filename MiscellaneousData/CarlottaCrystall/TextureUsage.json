@@ -1,15 +1,7 @@
 {
     "Component 0": {
-        "ps-t0": [
-            "c932fdef-vs=987bfe7b2bcf48c2-ps=d73afa2aaaad24d1",
-            "581a4846-vs=b0c2f2be7296c9d9-ps=a55c559f31786ff1"
-        ],
-        "ps-t1": [
-            "581a4846-vs=987bfe7b2bcf48c2-ps=d73afa2aaaad24d1",
-            "9ec0b80f-vs=b0c2f2be7296c9d9-ps=a55c559f31786ff1"
-        ],
         "ps-t2": [
-            "f47bc395-vs=987bfe7b2bcf48c2-ps=d73afa2aaaad24d1"
+            "f47bc395-vs=4c427c6698f3e22c-ps=032e09948658d28f"
         ]
     }
 }
